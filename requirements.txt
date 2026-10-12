@@ -1,0 +1,3 @@
+Flask>=3.0,<4
+flask-cors>=6.0,<7
+yt-dlp>=2025.1.0
